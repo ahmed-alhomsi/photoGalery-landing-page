@@ -21,7 +21,6 @@ function App() {
   }
 
   useEffect(() => {
-    // REMEMBER TO SET LOADING TO FALSE BACK AGAIN!!
     setLoading(true);
     setTimeout(() => {
       setLoading(false);
