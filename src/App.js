@@ -22,7 +22,7 @@ function App() {
 
   useEffect(() => {
     // REMEMBER TO SET LOADING TO FALSE BACK AGAIN!!
-    setLoading(false);
+    setLoading(true);
     setTimeout(() => {
       setLoading(false);
     }, 5000)    
