@@ -131,6 +131,7 @@ button {
   z-index: 1;
   position: absolute;
   left: 10px;
+  top: 180px;
   font-size: 5ch;
   background-color: rgb(255, 255, 255);
   border-radius: 25px;
@@ -142,6 +143,7 @@ button {
   background-color: rgb(255, 255, 255);
   border-radius: 25px;
   z-index: 1;
+  top: 180px;
   right: 10px;
   position: absolute;
   cursor: pointer;
